@@ -1,0 +1,7 @@
+com\polania\demo\controller\ServicioController.class
+com\polania\demo\ServicioInyectores1Application.class
+com\polania\demo\entities\Pago.class
+com\polania\demo\repository\ServicioRepository.class
+com\polania\demo\entities\Caja.class
+com\polania\demo\entities\Servicio.class
+com\polania\demo\repository\PagoRepository.class
